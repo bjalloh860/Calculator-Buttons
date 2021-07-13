@@ -1,0 +1,12 @@
+BODY_BACKGROUND		FloralWhite9)
+CELL_BACKGROUND1		rgb(175,175,160)
+CELL_BACKGROUND2		#B6CEE2
+TABLE_BORDER_COLOR	black
+TABLE_BORDER_PX		4
+AUTHORS			Bailor & Garfunkel
+TITLE			Calculator Buttons
+IMAGES
+b7.png     b8.png	     b9.png     bc.png     bac.png
+b4.png     b5.png     b6.png     bmult.png     bdiv.png     
+b1.png     b2.png     b3.png     badd.png     bsub.png
+b0.png     bdot.png     bexp.png     bequals.png     bmem.png
